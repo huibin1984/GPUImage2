@@ -10,6 +10,8 @@ http://www.sunsetlakesoftware.com
 
 contact@sunsetlakesoftware.com
 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 ## Overview ##
 
 GPUImage 2 is the second generation of the <a href="https://github.com/BradLarson/GPUImage">GPUImage framework</a>, an open source project for performing GPU-accelerated image and video processing on Mac, iOS, and now Linux. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, but this latest version is written entirely in Swift and can also target Linux and future platforms that support Swift code.
